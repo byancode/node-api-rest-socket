@@ -2,7 +2,7 @@ module.exports = {
 	apps: [
 		{
 			name: 'indriverbot',
-			script: 'app.js',
+			script: 'src/app.js',
 			instances: 1,
 			watch: ['.'],
 			max_memory_restart: '1G',

@@ -1,4 +1,4 @@
-import userController from './controllers/user';
+import userController from '../controllers/user';
 import 'express-group-routes';
 import express from 'express';
 
